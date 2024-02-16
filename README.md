@@ -1,7 +1,7 @@
 # Netflix Gpt
 
-Create react app
-Configured tailwind css
+-Create react app
+-Configured tailwind css
 
 # Features
 - Login/Signup
@@ -12,6 +12,6 @@ Configured tailwind css
         - Trailer
         - Title & description
 
--Netflix Gpt
+- Netflix Gpt
         - Search Bar
         - Movie Suggestions
